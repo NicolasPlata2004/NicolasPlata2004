@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1e242d4a-21ed-4760-9035-f081f0853210" alt="Nicolas Plata Molano Banner" width="100%" />width="100%" />
+  <img src="https://github.com/user-attachments/assets/1e242d4a-21ed-4760-9035-f081f0853210" alt="Nicolas Plata Molano Banner" width="100%"  />
 </div>
 
 <br />

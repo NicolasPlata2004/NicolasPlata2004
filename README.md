@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[COLOCA_EL_LINK_DE_TU_IMAGEN_AQUI" alt="Nicolas Plata Molano Banner](https://github.com/user-attachments/assets/303a57a4-0a80-490f-9999-ed82ef6674b4)" width="100%" />
+  <img src="COLOCA_EL_LINK_DE_TU_IMAGEN_AQUI" alt="Nicolas Plata Molano Banner" width="100%" />width="100%" />
 </div>
 
 <br />

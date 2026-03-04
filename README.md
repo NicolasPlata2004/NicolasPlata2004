@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
 <!-- Si consigues los logos pequeños exactos, cambia los Links del src="" de abajo por los tuyos de GitHub Issues como hiciste con Mastercam -->
-<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/5e225efc-0a83-4c8e-9335-7480313f418a" />
+<img width="120" height="80" alt="Image" src="https://github.com/user-attachments/assets/5e225efc-0a83-4c8e-9335-7480313f418a" />
 <img src="https://img.shields.io/badge/LTspice-9B1B30?style=for-the-badge&logoColor=white" alt="LTspice" />
 <img src="https://img.shields.io/badge/NI_Multisim-004B87?style=for-the-badge&logoColor=white" alt="Multisim" />
 

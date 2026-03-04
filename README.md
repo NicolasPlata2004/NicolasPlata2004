@@ -54,6 +54,8 @@
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 
 **⚡ Electronics / Circuit Simulation**
 <br />
@@ -62,15 +64,16 @@ _Proteus, LTspice, Multisim, KiCad_
 **🤖 CAD / CAM / CAE (Design & Manufacturing)**
 <br />
 <img src="https://img.shields.io/badge/Autodesk_Fusion_360-FBA919?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" />
-_Mastercam_
+<!-- REEMPLAZA EL LINK DE ABAJO CON LA IMAGEN DE MASTERCAM QUE SUBAS A GITHUB -->
+<img src="ENLACE_DE_TU_IMAGEN_MASTERCAM" alt="Mastercam" height="28" />
 
 ---
 
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasPlata2004&show_icons=true&theme=tokyonight" alt="Nicolas Plata Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPlata2004&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasPlata2004&show_icons=true&theme=radical" alt="Nicolas Plata Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPlata2004&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <br />

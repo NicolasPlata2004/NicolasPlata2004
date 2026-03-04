@@ -77,6 +77,12 @@
 <br />
 <img height="80" src="https://github.com/user-attachments/assets/4e04870e-569b-4c7b-98c8-34770823ad9e" alt="Matlab_Simulink" />
 
+
+**Industrial Automation**
+<br />
+<br />
+<img height="80" src="https://github.com/user-attachments/assets/e8b3500a-1a43-460e-85a4-2e6d08812452" alt="Automatizacion" />
+
 **Productivity & Tools**
 <br />
 <br />

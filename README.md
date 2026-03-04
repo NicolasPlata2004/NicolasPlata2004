@@ -60,7 +60,7 @@
 
 **⚡ Electronics / Circuit Simulation**
 <br />
-<img width="120" height="80" alt="Image" src="https://github.com/user-attachments/assets/f1975023-e1d1-43e6-8979-b3647204b91b" />
+<img width="480" height="320" alt="Image" src="https://github.com/user-attachments/assets/f1975023-e1d1-43e6-8979-b3647204b91b" />
 
 **🤖 CAD / CAM / CAE (Design & Manufacturing)**
 <br />

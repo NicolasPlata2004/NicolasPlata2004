@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 
 **Frontend Development**
 <br />
@@ -59,12 +60,16 @@
 
 **⚡ Electronics / Circuit Simulation**
 <br />
-_Proteus, LTspice, Multisim, KiCad_
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+<!-- Si consigues los logos pequeños exactos, cambia los Links del src="" de abajo por los tuyos de GitHub Issues como hiciste con Mastercam -->
+<img src="https://img.shields.io/badge/Proteus-1A1A1A?style=for-the-badge&logoColor=white" alt="Proteus" />
+<img src="https://img.shields.io/badge/LTspice-9B1B30?style=for-the-badge&logoColor=white" alt="LTspice" />
+<img src="https://img.shields.io/badge/NI_Multisim-004B87?style=for-the-badge&logoColor=white" alt="Multisim" />
 
 **🤖 CAD / CAM / CAE (Design & Manufacturing)**
 <br />
 <img src="https://img.shields.io/badge/Autodesk_Fusion_360-FBA919?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" />
-<!-- REEMPLAZA EL LINK DE ABAJO CON LA IMAGEN DE MASTERCAM QUE SUBAS A GITHUB -->
 <img src="https://github.com/user-attachments/assets/7ddf6bcc-8a7c-4731-8fe8-aba81d5f10a9" alt="Mastercam" height="28" />
 
 ---

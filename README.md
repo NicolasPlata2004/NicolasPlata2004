@@ -91,7 +91,8 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NicolasPlata2004/NicolasPlata2004/main/github-metrics.svg" alt="GitHub Metrics" onerror="this.src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicolasPlata2004&theme=tokyonight'" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NicolasPlata2004&show_icons=true&theme=radical&random=2" alt="Nicolas Plata Stats" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NicolasPlata2004&layout=compact&theme=radical" alt="Top Languages" height="195" />
 </div>
 
 <br />

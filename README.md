@@ -89,16 +89,11 @@
 <img height="80" src="https://github.com/user-attachments/assets/2338d557-1995-405e-a094-01503c8209ef" alt="Ofimatica" />
 
 ### ⚙️ GitHub Analytics
-
 <div align="center">
   <img src="https://github-readme-stats.onrender.com/api?username=NicolasPlata2004&show_icons=true&theme=radical" alt="Nicolas Plata Stats" />
   <img src="https://github-readme-stats.onrender.com/api/top-langs/?username=NicolasPlata2004&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
 <br />
-
-
-
 
 ---
 

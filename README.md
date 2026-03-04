@@ -75,7 +75,7 @@
 **Control & Numerical Simulation**
 <br />
 <br />
-<img width="1008" height="672" src="https://github.com/user-attachments/assets/4e04870e-569b-4c7b-98c8-34770823ad9e" alt="Matlab_Simulink" />
+<img width="252" height="168" src="https://github.com/user-attachments/assets/4e04870e-569b-4c7b-98c8-34770823ad9e" alt="Matlab_Simulink" />
 
 ---
 

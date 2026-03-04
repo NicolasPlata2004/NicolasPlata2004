@@ -93,11 +93,3 @@
 
 ---
 
-### ⚙️ GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasPlata2004&show_icons=true&theme=radical&random=2" alt="Nicolas Plata Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPlata2004&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<br />

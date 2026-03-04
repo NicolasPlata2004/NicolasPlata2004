@@ -65,7 +65,7 @@ _Proteus, LTspice, Multisim, KiCad_
 <br />
 <img src="https://img.shields.io/badge/Autodesk_Fusion_360-FBA919?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" />
 <!-- REEMPLAZA EL LINK DE ABAJO CON LA IMAGEN DE MASTERCAM QUE SUBAS A GITHUB -->
-<img src="ENLACE_DE_TU_IMAGEN_MASTERCAM" alt="Mastercam" height="28" />
+<img src="https://github.com/user-attachments/assets/7ddf6bcc-8a7c-4731-8fe8-aba81d5f10a9" alt="Mastercam" height="28" />
 
 ---
 

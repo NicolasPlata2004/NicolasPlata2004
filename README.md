@@ -77,6 +77,14 @@
 <br />
 <img width="252" height="168" src="https://github.com/user-attachments/assets/4e04870e-569b-4c7b-98c8-34770823ad9e" alt="Matlab_Simulink" />
 
+**Productivity & Tools**
+<br />
+<br />
+<img width="252" height="168" src="https://github.com/user-attachments/assets/2338d557-1995-405e-a094-01503c8209ef" alt="Ofimatica" />
+
+
+
+
 ---
 
 ### ⚙️ GitHub Analytics

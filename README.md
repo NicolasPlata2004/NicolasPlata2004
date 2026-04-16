@@ -75,7 +75,7 @@
 **Control & Numerical Simulation**
 <br />
 <br />
-<img height="80" src="https://github.com/user-attachments/assets/4e04870e-569b-4c7b-98c8-34770823ad9e" alt="Matlab_Simulink" />
+<img height="80" src="https://github.com/user-attachments/assets/97e216af-5ab1-4eb4-a0cd-f02a96b5dd9b" alt="Matlab_Simulink" />
 
 
 **Industrial Automation**

@@ -75,7 +75,7 @@
 **Control & Numerical Simulation**
 <br />
 <br />
-<img height="80" src="https://github.com/user-attachments/assets/97e216af-5ab1-4eb4-a0cd-f02a96b5dd9b" alt="Matlab_Simulink" />
+<img height="80" src="https://github-production-user-asset-6210df.s3.amazonaws.com/90416010/578972156-f15d2f70-1b06-484a-9946-ae75f649590c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260416%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260416T022757Z&X-Amz-Expires=300&X-Amz-Signature=cfbf9a01356029e95f957176054d1e3e92092be388abc1ed36c51c559dec8203&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng" alt="Matlab_Simulink" />
 
 
 **Industrial Automation**

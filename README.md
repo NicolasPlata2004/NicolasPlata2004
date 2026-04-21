@@ -82,7 +82,7 @@
 <br />
 <br />
 <img height="80" src="https://github.com/user-attachments/assets/4993b667-8caa-4321-b1ef-b8bffbc62eb4" alt="Automatizacion" />
-<img height="80" src="..." />
+<img height="80" src="https://github.com/user-attachments/assets/64188e19-3ffb-49b2-9e81-7412c710d591" />
 
 **Productivity & Tools**
 <br />

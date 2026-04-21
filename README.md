@@ -81,7 +81,7 @@
 **Industrial Automation**
 <br />
 <br />
-<img height="80" src="https://github.com/user-attachments/assets/5e08466d-f64d-4bf4-af09-c2f4404d4ab7" alt="Automatizacion" />
+<img height="80" src="https://github.com/user-attachments/assets/4993b667-8caa-4321-b1ef-b8bffbc62eb4" alt="Automatizacion" />
 
 **Productivity & Tools**
 <br />

@@ -89,7 +89,7 @@
 **Productivity & Tools**
 <br />
 <br />
-<img height="80" src="https://github.com/user-attachments/assets/2338d557-1995-405e-a094-01503c8209ef" alt="Ofimatica" />
+<img height="80" src="https://github.com/user-attachments/assets/e25422ee-3c6e-4360-8efc-d9d9571615c2" alt="Ofimatica" />
 
 ### ⚙️ GitHub Analytics
 
